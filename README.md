@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, sou o Eduardo Piana
 
-<!--
-**epiana/epiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia com foco em desenvolvimento web e automação. Utilizo Inteligência Artificial como ferramenta prática de apoio aos meus estudos e estruturação de códigos.
 
-Here are some ideas to get you started:
+Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Tecnologia - Universidade Positivo
+
+Interesses
+ Desenvolvimento Back-end
+ Desenvolvimento Web
+ Inteligência Artificial
+
+Atualmente estudando
+ Python
+ HTML e CSS
+ Lógica de Programação
+
+Tecnologias
+ Python | HTML | CSS
+
+Projetos Destaque
+ [Rackpoint](https://github.com/epiana/Rackpoint) - Vitrine virtual de produtos desenvolvida para facilitar a visualização do catálogo, integrando redirecionamento direto para compras no Mercado Livre e atendimento via WhatsApp.
+
+Contato
+ LinkedIn: [in/eduardo-piana-bb3a6b242](https://linkedin.com/in/eduardo-piana-bb3a6b242)
+ E-mail: edupiana03@gmail.com
